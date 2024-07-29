@@ -1,3 +1,8 @@
+@font-face {
+    font-family: foturuk;
+    src: url(../fonts/futurak.ttf);
+}
+
 .nav-items{
     font-size: 1.7rem;
     font-style: oblique;
@@ -18,4 +23,128 @@
     color: var(--white);
     border-radius: 30px;
     padding: 15px 20px;
+    border: none;
+}
+
+.arrow{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 4px;
+    color: var(--red);
+}
+
+.logo-text-1{
+    font-family: foturuk;
+    font-size: 52px;
+    
+}
+
+h2{
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.main-write{
+       font-size: 16px;
+       margin-bottom: 50px;
+}
+.image-bg{
+    background-color: var(--white);
+    border-radius: 3px;
+    padding: 15px 0px;
+}
+
+.order-now{
+    background-color: transparent;
+    color: var(--white);
+    border-radius: 30px;
+    padding: 15px 20px;
+    border: 1px solid white;
+    display: block;
+    margin-left: 70px;
+}  
+.m-r{
+    
+}  
+
+.m-b{
+    margin-bottom: 30px;
+}
+p{
+    font-size: 16px;
+}
+.bg-gray{
+    background-color: var(--gray);
+}
+.country-red{
+    color: var(--red);
+    letter-spacing: 1rem;
+    font-size: 16px;
+}
+.font-f{
+    font-family: foturuk;
+    
+}
+.font-s{
+    font-size: 32px;
+}
+.contact-color{
+    color: gray;
+}
+
+.direction-btn{
+    background-color: transparent;
+    color: var(--white);
+    border-radius: 30px;
+    padding: 15px 20px;
+    border: 1px solid white;
+    display: block;
+}
+
+h1{
+    font-size: 30px;
+  
+}r, 
+.font-size{
+    font-size: 50px;
+}
+
+.m-v{
+    margin-left: 180px;
+}
+.bg-green{
+    background-color: var(--green);
+}
+.arrow-g{
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 4px;
+    color: var(--green);
+}
+.bg-white{
+    background-color: var(--white);
+    height: 260px;
+    width: 280px;
+}
+
+.opening{
+    color: var(--red);
+}
+
+.text-left{
+    text-align: left;
+}
+
+h3{
+    font-size: 2rem;
+}
+
+.facebook-btn{
+    background-color: var(--red);
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 40px;
+    margin-top: 50px;
+    border: none;
 }
