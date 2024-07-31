@@ -1,0 +1,23 @@
+.bc-gray{
+    background-color: var(--gray);
+    height: 450px;
+    width: 260px;
+}
+.img-radious{
+    border-radius: 5px;
+}
+.font-small{
+    font-size: small;
+}
+.marg-bottom{
+    margin-bottom: 10px;
+}
+.text-left{
+    text-align: left;
+}
+.disp-block{
+    display: block;
+}
+.display-inline{
+    display: inline;
+}

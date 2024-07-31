@@ -105,7 +105,7 @@ p{
 h1{
     font-size: 30px;
   
-}r, 
+} 
 .font-size{
     font-size: 50px;
 }
@@ -147,4 +147,7 @@ h3{
     border-radius: 40px;
     margin-top: 50px;
     border: none;
+}
+.w-100{
+    width: 100%;
 }
